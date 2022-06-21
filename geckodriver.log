@@ -1,0 +1,54 @@
+1651163319443	geckodriver	INFO	Listening on 127.0.0.1:63912
+1651163319480	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63913" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/54/4m3j7qr16rj4qvh9ylf5sg9m0000gn/T/rust_mozprofile6bpLHr"
+1651163335083	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/54/4m3j7qr16rj4qvh9ylf5sg9m0000gn/T/rust_mozprofile6bpLHr/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:63913/devtools/browser/6a3c6317-ba9f-467e-818a-35b1ce1d65a8
+1651163336950	Marionette	INFO	Listening on port 64036
+Read port: 64036
+1651163337017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+1655841953189	geckodriver	INFO	Listening on 127.0.0.1:56762
+1655841953600	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56763" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/54/4m3j7qr16rj4qvh9ylf5sg9m0000gn/T/rust_mozprofiledIlOBq"
+1655841957098	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56763
+2022-06-21 23:05:57.241 plugin-container[7710:239187] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:05:57.241 plugin-container[7710:239187] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:05:57.304 plugin-container[7710:239187] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:05:57.304 plugin-container[7710:239187] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:05:57.304 plugin-container[7710:239185] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:05:57.304 plugin-container[7710:239185] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/54/4m3j7qr16rj4qvh9ylf5sg9m0000gn/T/rust_mozprofiledIlOBq/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1655841958796	Marionette	INFO	Listening on port 56775
+DevTools listening on ws://localhost:56763/devtools/browser/06c4cce4-7b76-4727-b112-e43eed2474ab
+Read port: 56775
+1655841958891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1655729925, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1655729925, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655843689916	geckodriver	INFO	Listening on 127.0.0.1:56929
+1655843690430	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56930" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/54/4m3j7qr16rj4qvh9ylf5sg9m0000gn/T/rust_mozprofilepVkleY"
+2022-06-21 23:34:50.816 plugin-container[7917:246915] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:34:50.816 plugin-container[7917:246915] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:34:50.820 plugin-container[7917:246915] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:34:50.820 plugin-container[7917:246915] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-21 23:34:50.821 plugin-container[7917:246913] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-21 23:34:50.821 plugin-container[7917:246913] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1655843690838	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:56930
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/54/4m3j7qr16rj4qvh9ylf5sg9m0000gn/T/rust_mozprofilepVkleY/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1655843692438	Marionette	INFO	Listening on port 56940
+DevTools listening on ws://localhost:56930/devtools/browser/0513c57e-66c1-4bf9-8e21-9f4f307f6154
+Read port: 56940
+1655843692518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1655843694147	Marionette	INFO	Stopped listening on port 56940
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
